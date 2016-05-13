@@ -17,7 +17,7 @@ public class DatabaseManager {
 
     final String DB_URL = "jdbc:mysql://localhost:3306/test?useSSL=false";
     final String USER = "root";
-    final String PASS = "minhaz068117";
+    final String PASS = "password";
 
     private Connection connection;
     private Statement statement;
